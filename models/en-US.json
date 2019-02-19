@@ -1,7 +1,7 @@
 {
   "interactionModel": {
     "languageModel": {
-      "invocationName": "space facts",
+      "invocationName": "riya and jaina facts",
       "intents": [
         {
           "name": "AMAZON.CancelIntent",
@@ -23,17 +23,17 @@
           "name": "GetNewFactIntent",
           "samples": [
             "a fact",
-            "a space fact",
+            "a riya and jaina fact",
             "tell me a fact",
-            "tell me a space fact",
+            "tell me a riya and jaina fact",
             "give me a fact",
-            "give me a space fact",
+            "give me a riya and jaina fact",
             "tell me trivia",
-            "tell me a space trivia",
+            "tell me a riya and jaina trivia",
             "give me trivia",
-            "give me a space trivia",
+            "give me a riya and jaina trivia",
             "give me some information",
-            "give me some space information",
+            "give me some riya and jaina information",
             "tell me something",
             "give me something"
           ],

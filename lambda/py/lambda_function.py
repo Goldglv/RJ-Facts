@@ -36,12 +36,13 @@ data = [
   "Jaina's friend Julianna calls Riya poop.",
   'Riya tells everyone that Nugget is married to Punjeetha.',
   "One day when Riya's friends car ran out of gas, the brother hooked up a hose to his sister's butt.",
-  'There is a rumor of a bro-over happeneing soon.',
+  'There is a rumor of a bro-over happening soon.',
   'Jaina has a secret weapon call the snap twist pinch.',
   'Mommy farted.....a lot.',
   'Nugget and Dusk fart all the time, completely stinking up the first floor of the house, I think they need to see a fart specialist.',
-  "Nugget has a bad behaviour chart because he's bad.",
-]
+  "Boo has a bad behaviour chart because he's bad.",
+  "Jaina doesn't like Dora anymore because she has a gigantic head, it's really, really big.",
+  "Punjeeth scratched Jaina one day and he got an X on his behaviour chart, then he cried."
 
 # =========================================================================================================================================
 # Editing anything below this line might break your skill.
